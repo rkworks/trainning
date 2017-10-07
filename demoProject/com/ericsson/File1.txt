@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 File1
 Text Added
 Text Added
+=======
+File1
+>>>>>>> parent of 7d2c14b... Comment added
